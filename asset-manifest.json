@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/react-portfolio/static/css/main.c49edbda.css",
+    "main.js": "/react-portfolio/static/js/main.598570be.js",
+    "static/media/warcraft.png": "/react-portfolio/static/media/warcraft.51b920a30b73f9e01630.png",
+    "static/media/general.png": "/react-portfolio/static/media/general.9759d7ea4bc980ed1559.png",
+    "static/media/battle.png": "/react-portfolio/static/media/battle.9629e483e291880ae75c.png",
+    "static/media/cg.jpg": "/react-portfolio/static/media/cg.5902906e5db31e3a8de1.jpg",
+    "static/media/1.png": "/react-portfolio/static/media/1.164236f7959790cd52d3.png",
+    "static/media/at.jpg": "/react-portfolio/static/media/at.0c46369b69576b5f0d7b.jpg",
+    "static/media/kape.jpg": "/react-portfolio/static/media/kape.147d4318b7058e8fae49.jpg",
+    "static/media/ojt-certificate.png": "/react-portfolio/static/media/ojt-certificate.6cab3e577af23f48ca19.png",
+    "static/media/about-iamge.png": "/react-portfolio/static/media/about-iamge.738bc70096e1fd8b2932.png",
+    "static/media/she1.jpg": "/react-portfolio/static/media/she1.788a23a7210b5a31782d.jpg",
+    "static/media/she2.jpg": "/react-portfolio/static/media/she2.75391720025da4365df6.jpg",
+    "static/media/ojt1.png": "/react-portfolio/static/media/ojt1.c08ab2bea09e86809b11.png",
+    "static/media/va.jpg": "/react-portfolio/static/media/va.00c9e4b11482a37d1c55.jpg",
+    "static/media/ojt5.png": "/react-portfolio/static/media/ojt5.c4da82ca5a663d4ed14c.png",
+    "static/media/ojt4.png": "/react-portfolio/static/media/ojt4.fb460ee026083815db42.png",
+    "static/media/ojt3.png": "/react-portfolio/static/media/ojt3.8937fe192f001176038d.png",
+    "static/media/react_logo.png": "/react-portfolio/static/media/react_logo.da363b94e54e6deee792.png",
+    "static/media/empress.jpg": "/react-portfolio/static/media/empress.cebfc9595f6832a9d630.jpg",
+    "static/media/ojt2.png": "/react-portfolio/static/media/ojt2.6242d46dd7adec6ff2f1.png",
+    "static/media/2.png": "/react-portfolio/static/media/2.ea0e65f4ce59e88e17b9.png",
+    "static/media/akoni.png": "/react-portfolio/static/media/akoni.3db7fe75a63d1e882877.png",
+    "static/media/sunset.jpg": "/react-portfolio/static/media/sunset.be63efd4687bec0249b4.jpg",
+    "static/media/3.jpg": "/react-portfolio/static/media/3.6758bc006c253d4e282c.jpg",
+    "static/media/stitch.png": "/react-portfolio/static/media/stitch.c472774f08bb6c9f047f.png",
+    "index.html": "/react-portfolio/index.html",
+    "main.c49edbda.css.map": "/react-portfolio/static/css/main.c49edbda.css.map",
+    "main.598570be.js.map": "/react-portfolio/static/js/main.598570be.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c49edbda.css",
+    "static/js/main.598570be.js"
+  ]
+}
