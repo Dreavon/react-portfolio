@@ -1,0 +1,149 @@
+#abt {
+  padding-top: 10%;
+}
+
+#abt h1 {
+    font-size: 100px;
+}
+
+
+#carton1 {
+  margin-top: -40px;
+  padding-top: 10%;
+  background: rgb(224, 223, 223);
+}
+
+#carton p {
+  font-size: 24px;
+}
+
+
+#carton1 .text {
+  text-align: justify;
+  font-size: 20px;
+}
+
+
+#carton1 .icons {
+    font-size: 40px;
+    margin-left: 10px;
+}
+
+#carton1 ul {
+  list-style-type: none;
+}
+
+#carton1 li {
+  display: inline;
+}
+
+#carton1 .icons:hover {
+    background: purple;
+    transition: all 0.4s ease;
+    padding: 5px;
+    color: #fff;
+    border-radius: 10px;
+}
+
+.footer_section {
+    background-color: #222831;
+    color: #ffffff;
+    text-align: center;
+}
+
+.footer_section .footer-info {
+    text-align: center;
+}
+
+.footer_section .footer-info p {
+    color: #ffffff;
+    margin: 0;
+}
+
+.footer_section .footer-info p a {
+    color: inherit;
+    text-decoration: none;
+}
+
+
+/*  */
+
+.skill {
+  width: 500px;
+  margin: 60px auto;
+  color: #fff;
+  padding: 20px;
+  box-shadow: 0 14px 28px rgba(0,0,0,0.25), 0 10px 10px rgba(0,0,0,0.27);
+}
+.skill li {
+  margin: 20px 0;
+  padding: 10px;
+}
+.bar {
+  background: #353b48;
+  display: block;
+  height: 20px;
+  border: 1px solid rgba(0,0,0,0.3);
+  border-radius: 50px;
+  overflow: hidden;
+  box-shadow: 0 1px 3px rgba(0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);
+  transition: all 0.3s cubic-bezier(.28,.8,.25,1);
+  margin-left: 60px;
+  margin-right: 60px;
+}
+.bar:hover {
+  box-shadow: 0 14px 28px rgba(0,0,0,0.25), 0 10px 10px rgba(0,0,0,0.22);
+}
+.bar span {
+  height: 20px;
+  float: left;
+  background: linear-gradient(135deg, rgb(232, 0, 236)0%, rgb(252, 103, 242)100%);
+}
+.html {
+  width: 90%;
+  animation: html 3s;
+}
+.css {
+  width: 70%;
+  animation: css 3s;
+}
+.php {
+  width: 35%;
+  animation: php 3s;
+}
+.javascript {
+  width: 50%;
+  animation: javascript 3s;
+}
+@keyframes html {
+  0% {
+      width: 0%;
+  }
+  100% {
+      width: 90%;
+  }
+}
+@keyframes css {
+  0% {
+      width: 0%;
+  }
+  100% {
+      width: 70%;
+  }
+}
+@keyframes php {
+  0% {
+      width: 0%;
+  }
+  100% {
+      width: 35%;
+  }
+}
+@keyframes javascript {
+  0% {
+      width: 0%;
+  }
+  100% {
+      width: 50%;
+  }
+}

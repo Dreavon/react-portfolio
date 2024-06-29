@@ -1,0 +1,40 @@
+.edu {
+  background: linear-gradient(to right, hsl(295, 100%, 21%), rgb(0, 0, 0));
+  color: #fff;
+  }
+  
+  .education-horizontal-timeline .col {
+    padding:0 2px;
+  }
+  
+  .single-horizontal-timeline .experience-time h3{
+    text-transform: capitalize;
+  }
+  
+  .single-horizontal-timeline .timeline-content h5 {
+    margin: 15px 0;
+  }
+  
+  .timeline-horizontal-border {
+    display:  flex;
+    align-items: center;
+  }
+  .timeline-horizontal-border .i {
+    font-size:  10px;
+    color: #d92cf9;
+    margin-left: 50%;
+  }
+
+  span.single-timeline-horizontal {
+    display: inline-block;
+    background: #b2c1ce;
+    height:  1px;
+    width: 380px;
+  }
+  span.single-timeline-horizontal.spacial-horizontal-line {
+    width: 88px;
+  }
+
+  /*  */
+
+ 

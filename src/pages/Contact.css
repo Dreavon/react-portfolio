@@ -1,0 +1,129 @@
+#contacts {
+    padding-top: 10%;
+  }
+
+  .contact {
+    margin-top: -40px;
+    background: rgb(224, 223, 223);
+  }
+
+#contacts h1 {
+    font-size: 100px;
+} 
+
+.single-contact-box {
+    padding-top: 100px;
+}
+
+.contact-form  .form-group {
+    margin-bottom: 20px;
+    
+}
+.contact-form .form-control {
+    padding: 25px;
+    font-size: 14px;
+    border: 1px solid #fff;
+    border-radius: 0px;
+    box-shadow: none;
+    outline: 0!important;
+    background: #fff;
+    color: #636a82;
+    resize: none;
+}
+
+.contact-form .single-contact-btn {
+    display:flex;
+    align-items:center;
+    justify-content:center;
+    height:50px;
+    text-transform:capitalize;
+    margin-top: 3px;
+    background: #b636ff;
+    border: 1px solid #b636ff;
+    cursor:pointer;
+    box-shadow: 0 5px 20px rgba(0,0,0,.2);
+     -webkit-transition: .5s; 
+    -moz-transition:.5s; 
+    -ms-transition:.5s; 
+    -o-transition:.5s;
+    transition: .5s;
+}
+.contact-form .single-contact-btn .contact-btn ,
+.contact-form .single-contact-btn .contact-btn:focus {
+    margin-top:0px;
+    outline: 0 !important;
+    border:0;
+    color: #fff;
+    border-radius: 0px;
+    font-size:14px;
+    -webkit-transition: .5s; 
+    -moz-transition:.5s; 
+    -ms-transition:.5s; 
+    -o-transition:.5s;
+    transition: .5s;
+    
+}
+
+.contact-adress .icons {
+    font-size: 35px;
+}
+
+.single-contact-btn:hover{
+    background: #9f00ff;
+    border: 1px solid #9f00ff;
+    box-shadow: 0 5px 20px rgba(0,0,0,.2);
+}
+
+.contact-add-head h3 {
+    font-size:  24px;
+    color:  #3c4258;
+}
+.contact-add-head p {
+    font-size:  16px;
+    text-transform: capitalize;
+    color:  #636a82;
+    font-weight:  300;
+    margin-top:  6px;
+}
+
+.contact-add-info {
+     margin: 42px 0 52px;
+}
+.single-contact-add-info h3 {
+    color:  #636a82;
+    font-weight:  500;
+}
+.single-contact-add-info p {
+    color:  #999fb3;
+    font-size:  16px;
+    margin-top:  18px;
+}
+.single-contact-add-info {
+    margin-bottom:  26px;
+} 
+
+.hm-foot-icon ul {
+    list-style-type: none;
+}
+
+.hm-foot-icon ul li{
+    float: left;
+}
+
+.hm-foot-icon ul li>a {
+    color: #636a82;
+    margin-right:18px;
+    -webkit-transition: .3s; 
+    -moz-transition:.3s; 
+    -ms-transition:.3s; 
+    -o-transition:.3s;
+    transition: .3s;
+}
+
+.hm-foot-icon ul li>a:hover{ 
+    color: #b636ff;
+}
+
+.hm-foot-icon .icons {
+    font-size: 30px;
+}
